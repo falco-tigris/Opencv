@@ -1,1 +1,1 @@
-#OpenPose Model
+OpenPose Model
